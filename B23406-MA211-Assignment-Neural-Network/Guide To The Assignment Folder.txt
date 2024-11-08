@@ -1,0 +1,36 @@
+This folder has 15 files in it(along with this).
+
+Info Of each file and it's content:
+
+0. Solution-Gallery : Has Images of various solutions.
+
+1. Basic-ODE-(dy/dt=-ky) : This has code and solution of dy/dt=-ky.
+
+2. Basic-ODE : This has equation dy/dx=y. 
+
+3. Basic-ODE-1 : Implementation of Legendre's.
+
+4. Basic-ODE-2 : Solution for dy/dx = -2y+1.
+
+5. Basic-ODE-3 : Bessel-Eqn rough approximation.
+
+6. Basic-ODE-4 : Incorrect code but unique implementation of Bessel.
+
+7. Bessel-0 : Best Bessel eqn for p = 0-5.
+
+8. Bessel-Final : Optimised Bessel using L2 optimisation for n = 0-25.
+
+9. Final-report-ODE : Final Report stating everything.
+
+10. Guide To The Assignment Folder : Guide.
+
+11. Legendre-0 : For k = 0-4 correct Legendre-Diff-Eqn.
+
+12. Legendre-1 : For k = 0-5 correct Legendre-Diff-Eqn.
+
+13. Legendre--1 : Incorrect Legendre basic implementation.
+
+14. Legendre-2 : For k = 0-25 correct Legendre-Diff-Eqn.
+
+15. True-Legendre : To visualise true solution of Legendre-Diff-Eqn.
+
